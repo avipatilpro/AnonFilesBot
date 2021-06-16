@@ -1,5 +1,4 @@
-#    Copyright (C) 2021 - Infinity Bots
-
+#    Copyright (C) 2021 - Avishkar Patil | @AvishkarPatil
 
 
 import os
@@ -46,9 +45,11 @@ HELP_TEXT = """
 ABOUT_TEXT = """
 - **Bot :** `AnonFilesBot`
 - **Creator :** [AvishkarPatil](https://telegram.me/AvishkarPatil)
-- **Source :** [Click here](https://github.com/FayasNoushad/Telegraph-Uploader-Bot)
+- **Source :** [Click here](https://github.com/avipatilpro/AnonFilesBot)
 - **Language :** [Python3](https://python.org)
 - **Server :** [Heroku](https://heroku.com)
+
+__MᴀɪɴTᴀɪɴᴇᴅ Bʏ__ :** @AvishkarPatil
 """
 
 START_BUTTONS = InlineKeyboardMarkup(
