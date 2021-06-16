@@ -1,5 +1,4 @@
-# Infinity Bots
-# ImJanindu
+# [ Avishkar Patil ] 
 
 import time
 
