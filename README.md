@@ -9,6 +9,10 @@
 - Fork This Repositry
 - And Simply Cick On Heroku Deploy 
 - And Done !
+<br>
+
+- ⚠️ Add Bot In Update Channel Otherwise Not Work
+<br>
 
 ### Deploy on Heroku :
 
